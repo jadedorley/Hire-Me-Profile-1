@@ -1,0 +1,65 @@
+img{
+    width:500px;
+    height:400px;
+    border:dashed; 
+    opacity:2;
+    border-bottom:10px solid black;
+    border-left:10px solid white;
+    border-top:10px groove black;
+    border-right:10px solid white;
+    border-radius:500px;
+    }
+body{
+    text-align:center;
+    background:tan;
+    font-family:'Mali', cursive;
+}
+li{
+    text-align:left;
+    color:black;
+}
+p{
+    color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
